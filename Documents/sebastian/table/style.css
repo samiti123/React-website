@@ -1,0 +1,13 @@
+table {
+    background-color: red;
+    font-family: sans-serif;
+}
+th{
+ background-color: darkred;
+}
+tr{
+    background-color: yellow;
+}
+td{
+    background-color:transparent;
+}
