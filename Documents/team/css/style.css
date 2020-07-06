@@ -1,0 +1,21 @@
+.jumbotron .pic {
+  width: 70%;
+  height: 100vh;
+  background-size: cover;
+  position: absolute;
+  text-align: center;
+  margin-top: 200px;
+  margin-left: 160px;
+}
+
+.jumbotron {
+  width: 100%;
+  height: 100vh;
+  background-color: lightgrey;
+  background-image: url("https://www.eon.de/content/dam/eon/eon-de-zwei/images/landschaft/duesseldorf/duesseldorf_111x80.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg");
+  background-repeat: no-repeat;
+}
+
+/*# sourceMappingURL=style.css.map */
+
+/*# sourceMappingURL=style.css.map */
