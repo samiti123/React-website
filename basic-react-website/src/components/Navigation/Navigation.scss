@@ -1,0 +1,23 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: aqua;
+    padding: 20px;
+
+
+    .logo{
+        font-size: 22px;
+        font-weight: 500;
+
+    }
+
+    .navLinks{
+        
+    .link{
+            text-decoration: none;
+            margin-left: 10px;
+        } 
+    }
+    
+}
